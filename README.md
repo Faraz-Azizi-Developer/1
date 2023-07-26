@@ -2,9 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal]()
-
-![view final]()
+![viewfinal](https://github.com/Faraz-Azizi-Developer/1/blob/main/index.html)
 
 - [Demo Project]()
 
